@@ -1,0 +1,16 @@
+# django basic support (install gettext for i18n messages support)
+django>=1.11
+# rest
+djangorestframework
+# db backup with django-dbbackup
+django-dbbackup
+# gunicorn to run django app in the container
+gunicorn
+
+# Markdown (install pandoc)
+markdown>=2.6.8
+pypandoc
+# Markdown-Editor provides markdown web editor
+Markdown-Editor
+# setuptools-markdown for nice README.md description for the package
+setuptools-markdown
